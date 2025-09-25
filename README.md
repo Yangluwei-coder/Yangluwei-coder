@@ -26,8 +26,7 @@ A Java system to validate driver eligibility for rideshare platforms
 [🔗 View Repository](https://github.com/yourusername/rideshare-validator)
 
 ### 🎼 Music Editor
-A music editing tool.  
-[🔗 View Repository](https://github.com/Yangluwei-coder/MusicEditor)
+A Java backend music editing tool.  [🔗 View Repository](https://github.com/Yangluwei-coder/MusicEditor)
 
 ---
 
