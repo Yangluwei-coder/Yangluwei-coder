@@ -19,11 +19,15 @@
 ## 📂 Featured Projects
 ### 🛒 Shopping Cart Website
 A toy e-commerce website with Redux-based cart system.  
-[🔗 View Repository](https://github.com/yourusername/shopping-cart)
+[🔗 View Repository](https://github.com/Yangluwei-coder/TiniJoy)
 
 ### 🚗 Rideshare Driver Validator
 A Java system to validate driver eligibility for rideshare platforms.  
 [🔗 View Repository](https://github.com/yourusername/rideshare-validator)
+
+### 🎼 Music Editor
+A simple music editing tool.  
+[🔗 View Repository](https://github.com/Yangluwei-coder/MusicEditor)
 
 ---
 
