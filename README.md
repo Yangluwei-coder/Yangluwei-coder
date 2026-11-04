@@ -4,7 +4,7 @@
 - 🎓 Master’s Student in Computer Science @ Northeastern University, Seattle
 - 💻 Passionate about software engineering, backend systems, and full-stack development
 - 🌱 Currently exploring system design, React/Redux, and cloud technologies
-- 📫 Reach me at **yangluwei63@gmail.com**
+- 📫 Reach me at **yang.luw@northeastern.edu**
 
 ---
 
